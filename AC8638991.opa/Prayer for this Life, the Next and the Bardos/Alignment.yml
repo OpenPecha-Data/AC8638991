@@ -1,0 +1,28 @@
+segment_sources:
+  P7A8F0B1E:
+    type: origin_type
+    relation: translation
+    language: en
+  P123E9364:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  29bf5b93280a42caa5adfc939ffc1d4b:
+    P7A8F0B1E: a34a8976b5ed483cac0ed7067c8979e2
+    P123E9364: 49e6d21ae70d465a8ba59899116f049b
+  8a532d471df547d190a5f2f27b035bfc:
+    P7A8F0B1E: ddd16a392f254163b4903f11fcb334a1
+    P123E9364: ae4d787eb52440ca87298e7fa8abc06b
+  7569cc8bc7724598be61a839500ee5d5:
+    P7A8F0B1E: 7e81d7a7ec564e2ab47d2d4ab0d1c871
+    P123E9364: e8b7b452cca7493890704a5dfadd8240
+  95f33dc95e95467ab10fb5913ea886b0:
+    P7A8F0B1E: 42198af47f3a4ed9b051e6f4b02190c6
+    P123E9364: d5b0c1f5d8234dcb848f1fbf9a7e21a4
+  1a9a1aa1cbb54f8594e1b3634c0094c0:
+    P7A8F0B1E: 2b32299661314861bb1dac5352034976
+    P123E9364: 47521f8954d74ae1a1fae64b33e0389f
+  ae949563d6d14a968b5da4a8a989b929:
+    P7A8F0B1E: 1a10829c243d4712975007e8b0807b44
+    P123E9364: 982d9a78893b48379e883f98cfad4137
